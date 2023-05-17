@@ -1,0 +1,22 @@
+.malukice{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: rgb(112, 179, 112);
+    background-color: rgb(255, 249, 240);
+}
+
+.marmelada{
+    background: rgb(174,238,178);
+    background: radial-gradient(circle, rgba(174,238,178,1) 0%, rgba(141,193,255,1) 100%);
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+table{
+  border: 1px solid;  
+}
+
+tr:hover {background-color: 
+    rgb(3, 98, 100);}
