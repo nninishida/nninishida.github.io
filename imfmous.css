@@ -18,7 +18,28 @@
     background: #80D0C7;
     }
 
-    .link {
-    text-align: left;
-    color: #80D0C7;
+    a:link, a:visited {
+        color: black;
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    .botao{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color: #0c8174;
+        border: none;
+        color: black;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+
+    .dacunha{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
